@@ -1,0 +1,8 @@
+.taskBar {
+    width: 40%;
+}
+.task{
+    height: 40px;
+    width: 100%;
+    color: black;
+}
